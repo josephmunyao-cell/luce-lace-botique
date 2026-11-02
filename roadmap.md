@@ -1,0 +1,3 @@
+- [x] Refresh typography, navigation, and homepage in a Jumia-inspired style.
+- [x] Polish product cards while preserving WhatsApp ordering.
+- [x] Check browsing, search, quick view, and mobile layout.
